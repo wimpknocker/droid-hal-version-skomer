@@ -11,4 +11,6 @@
 %define have_vibrator 1
 %define have_led 1
 
+%define have_kernel_modules 1
+
 %include droid-hal-version/droid-hal-version.inc
